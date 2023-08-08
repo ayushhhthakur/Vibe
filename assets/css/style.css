@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Satisfy&display=swap');
+
+body {
+    background-color: antiquewhite;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav {
+    font-family: 'Edu SA Beginner', cursive;
+    /* font-family: 'Satisfy', cursive; */
+}
+
+nav ul{
+    display: flex;
+}
