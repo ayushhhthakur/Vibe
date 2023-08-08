@@ -1,2 +1,2 @@
 # spotify-clone
-Live [https://soptify-playlist.netlify.app/]
+Visit The Live Website Here [Spotify](https://soptify-playlist.netlify.app/).
