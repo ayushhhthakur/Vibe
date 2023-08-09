@@ -42,9 +42,9 @@ git checkout -b feature/your-feature-name
 
 
 5. Make changes, commit, and push:
-git add .
-git commit -m "Add your commit message"
-git push origin feature/your-feature-name
+- git add .
+- git commit -m "Add your commit message"
+- git push origin feature/your-feature-name
 
 
 5. Open a pull request on the main repository.
