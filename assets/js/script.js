@@ -2,7 +2,7 @@ console.log("Welcome to Spotify");
 
 // Initialize the Variables
 let songIndex = 0;
-let audioElement = new Audio('../songs/1.mp3');
+let audioElement = new Audio('songs/1.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('gif');
@@ -10,10 +10,10 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    { songName: "Matilda - Harry Styles", filePath: "../songs/1.mp3", coverPath: "../covers/1.jpg" },
-    { songName: "Night Changes - One Direction", filePath: "../songs/2.mp3", coverPath: "../covers/2.jpeg" },
-    { songName: "hope ur ok - Olivia Rodrigo", filePath: "../songs/3.mp3", coverPath: "../covers/3.jpg" },
-    { songName: "Jocelyn Flores", filePath: "../songs/4.mp3", coverPath: "../covers/4.jpg" },
+    { songName: "Matilda - Harry Styles", filePath: "songs/1.mp3", coverPath: "covers/1.jpg" },
+    { songName: "Night Changes - One Direction", filePath: "songs/2.mp3", coverPath: "covers/2.jpeg" },
+    { songName: "hope ur ok - Olivia Rodrigo", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
+    { songName: "Jocelyn Flores", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
     // {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     // {songName: "Rabba - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     // {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
