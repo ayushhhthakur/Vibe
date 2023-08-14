@@ -65,9 +65,7 @@ nav ul li a:hover {
 .songList {
     margin-top: 20px;
     margin-bottom: 100px;
-    /* Adjust margin to create space for the bottom bar */
     overflow-y: auto;
-    /* Enable vertical scrolling for the container */
 }
 
 .songItemContainer {
@@ -126,7 +124,6 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* Align icons horizontally for larger devices */
 }
 
 .icons i {
@@ -152,11 +149,8 @@ nav ul li a:hover {
     padding: 10px;
     position: fixed;
     bottom: 0px;
-    /* Adjust the position from the bottom */
     left: 0;
-    /* Align with the left edge */
     right: 0;
-    /* Align with the right edge */
     width: 100%;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
 }
