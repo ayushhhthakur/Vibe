@@ -58,6 +58,9 @@ nav ul li:hover {
     color: #1db954;
 }
 
+nav ul li a:hover {
+    color: #1db954;
+}
 /* Song List */
 .songList {
     margin-top: 20px;
