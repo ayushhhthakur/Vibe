@@ -1,4 +1,4 @@
-# MySpotifyClone: Open-Source Spotify Clone
+# Vibe: Open-Source Spotify Clone
 
 MySpotifyClone is an open-source project that replicates some of Spotify's features using HTML, CSS, and JavaScript. It offers an intuitive interface for music playback, playlist management, and a music streaming experience similar to Spotify.
 
