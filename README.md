@@ -11,7 +11,7 @@ MySpotifyClone is an open-source project that replicates some of Spotify's featu
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/vibe.git
+git clone https://github.com/ayushhhthakur/vibe.git
 
 
 2. Navigate to the project directory:
